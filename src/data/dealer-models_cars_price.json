@@ -1,0 +1,32 @@
+[
+  {
+    "brand": "GAC",
+    "model": "GS3",
+    "price": 1659000,
+    "benefit": 800000
+  },
+  {
+    "brand": "GAC",
+    "model": "GS4",
+    "price": 2399000,
+    "benefit": 600000
+  },
+  {
+    "brand": "GAC",
+    "model": "GS8",
+    "price": 3499000,
+    "benefit": 1000000
+  },
+  {
+    "brand": "GAC",
+    "model": "M8",
+    "price": 5299999,
+    "benefit": 1000000
+  },
+  {
+    "brand": "Jetour",
+    "model": "Dashing",
+    "price": 2649000,
+    "benefit": 1000000
+  }
+]
