@@ -25,6 +25,12 @@
   },
   {
     "brand": "Jetour",
+    "model": "Dashing",
+    "price": 2109900,
+    "benefit": 650000
+  },
+  {
+    "brand": "Jetour",
     "model": "T1",
     "price": 3974000,
     "benefit": 225000
