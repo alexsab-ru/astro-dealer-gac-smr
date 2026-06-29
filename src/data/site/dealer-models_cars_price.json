@@ -22,5 +22,11 @@
     "model": "Эс 7 / S7",
     "price": 5899000,
     "benefit": 450000
+  },
+  {
+    "brand": "Jetour",
+    "model": "Dashing",
+    "price": 2759900,
+    "benefit": 0
   }
 ]
