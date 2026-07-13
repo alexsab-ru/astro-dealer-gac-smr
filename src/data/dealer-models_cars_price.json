@@ -16,5 +16,11 @@
     "model": "ДжиЭс 8 / GS8",
     "price": 4400000,
     "benefit": 549000
+  },
+  {
+    "brand": "Gac",
+    "model": "Эс 9 / S9",
+    "price": 6099000,
+    "benefit": 700000
   }
 ]
