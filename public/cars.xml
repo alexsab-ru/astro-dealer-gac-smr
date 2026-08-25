@@ -1,41 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<data><cars><car><availability>В пути</availability><body_type>Внедорожник 5 дв.</body_type><color>Серый</color><complectation_name>GL</complectation_name><credit_discount>200000</credit_discount><description>Хотите приобрести GAC GS4 до повышения утильсбора?
-Не упустите шанс купить полноприводную версию GAC GS4 по выгодной цене — от 
-8 307 ₽/мес. с реальной рассрочкой 0,01 %!
-GAC GS4 — это полноприводная версия, собранная на заводе Toyota. Надёжная платформа, проверенная временем, ждёт своего владельца. Успейте зафиксировать выгоду, пока условия максимально комфортны!
-
-Почему GAC GS4 стоит вашего внимания?
-Полный привод — уверенность на дороге в любую погоду.
-Сборка на заводе Toyota — гарантия высокого качества и продуманной инженерии.
-Надёжная платформа — проверена годами эксплуатации в разных условиях.
-Официальная гарантия 5 лет или 150 000 км — спокойствие за свой автомобиль на долгие годы.
-Это не просто кроссовер — это сочетание передовых технологий, комфорта и надёжности, адаптированное под российские дороги.
-
-Вы получаете не просто машину, а целый пакет выгод:
-комплект зимних шин — в подарок;
-шинный отель — в подарок до конца марта;
-компенсация транспортных расходов;
-подарок за покупку в день обращения.
-Ваш персональный менеджер сопроводит вас на всех этапах сделки, а оценка по трейд‑ин будет выше рыночной. Если найдёте дешевле — мы сделаем цену самой выгодной для вас!
-GAC GS4 — это максимум выгоды и комфорта без переплат. И всё это — с поддержкой официального дилера, которому доверяют.
-
-Не откладывайте решение — зафиксируйте выгоду уже сегодня!
-Что вы получите, обратившись к нам:
-реальную рассрочку 0,01 % от производителя GAC до 120 месяцев;
-первоначальный взнос от 0 ₽;
-онлайн‑оформление заявки — начните покупку, не выходя из дома;
-одобрение за 10 минут — без справок и подтверждений;
-оценку по трейд-ин выше рынка;
-все комплектации и цвета в наличии.
-Как начать?
-1. Позвоните нам — рассчитаем рассрочку с максимальной выгодой за 2 минуты.
-2. Запишитесь на бесплатный тест-драйв по уникальным маршрутам в Самаре — лично оцените преимущества GAC GS4.
-3. Получите фиксированные условия — пока утильсбор не повысился.
-Почему стоит выбрать «ЭКСПЕРТ АВТО»?
-официальный дилер GAC в Самаре;
-20 лет на рынке, более 40 000 проданных авто;
-более 100 автомобилей в наличии;
-девиз: «Клиент однажды — друг навсегда!».</description><drive_type>Полный</drive_type><engineType>Бензин</engineType><folder_id>GS4, I</folder_id><gearboxType>Автоматическая</gearboxType><images><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGAE3G81T1004988/0/full.webp?v=2dcb60e6fac8</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGAE3G81T1004988/1/full.webp?v=41b05cb678f8</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGAE3G81T1004988/2/full.webp?v=1db946467588</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGAE3G81T1004988/3/full.webp?v=934f2461217a</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGAE3G81T1004988/4/full.webp?v=3bc3dcaf3811</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGAE3G81T1004988/5/full.webp?v=59cb5bee4eef</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGAE3G81T1004988/6/full.webp?v=3eeb320fadd1</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGAE3G81T1004988/7/full.webp?v=ac4ba38a5f11</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGAE3G81T1004988/8/full.webp?v=ea18143af51e</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGAE3G81T1004988/9/full.webp?v=5063ab05b4db</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGAE3G81T1004988/10/full.webp?v=750a57186e08</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGAE3G81T1004988/11/full.webp?v=382062862c9e</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGAE3G81T1004988/12/full.webp?v=bca33e42fafa</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGAE3G81T1004988/13/full.webp?v=58e22511fd26</image></images><insurance_discount>100000</insurance_discount><mark_id>Gac</mark_id><max_discount>579000</max_discount><modification_id>2.0 AT (231 л.с.) 4WD</modification_id><price>3949000</price><run>0</run><tradein_discount>200000</tradein_discount><vin>LMGAE3G81T1004988</vin><wheel>левый</wheel><year>2026</year><color_rus>Серый</color_rus><color_eng>gray</color_eng><priceWithDiscount>3370000</priceWithDiscount><sale_price>3370000</sale_price><currency>RUR</currency><url>https://gac-smr.alexsab.ru/cars/gac-gs4-i-20-at-231-hp-4wd-gl-gray-2026/</url><model_name>ДжиЭс 4 / GS4</model_name><model_id>gs4</model_id><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGAE3G81T1004988/0/full.webp?v=2dcb60e6fac8</image></car><car><availability>В пути</availability><body_type>Внедорожник 5 дв.</body_type><color>Белый</color><complectation_name>GL</complectation_name><credit_discount>200000</credit_discount><description>Хотите приобрести GAC GS4 до повышения утильсбора?
+<data><cars><car><availability>В пути</availability><body_type>Внедорожник 5 дв.</body_type><color>Белый</color><complectation_name>GL</complectation_name><credit_discount>200000</credit_discount><description>Хотите приобрести GAC GS4 до повышения утильсбора?
 Не упустите шанс купить полноприводную версию GAC GS4 по выгодной цене — от 
 8 307 ₽/мес. с реальной рассрочкой 0,01 %!
 GAC GS4 — это полноприводная версия, собранная на заводе Toyota. Надёжная платформа, проверенная временем, ждёт своего владельца. Успейте зафиксировать выгоду, пока условия максимально комфортны!
