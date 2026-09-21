@@ -1,41 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<data><cars><car><availability>В наличии</availability><body_type>Внедорожник 5 дв.</body_type><color>Белый</color><complectation_name>GL</complectation_name><credit_discount>200000</credit_discount><description>Хотите приобрести GAC GS4 до повышения утильсбора?
-Не упустите шанс купить полноприводную версию GAC GS4 по выгодной цене — от 
-8 307 ₽/мес. с реальной рассрочкой 0,01 %!
-GAC GS4 — это полноприводная версия, собранная на заводе Toyota. Надёжная платформа, проверенная временем, ждёт своего владельца. Успейте зафиксировать выгоду, пока условия максимально комфортны!
-
-Почему GAC GS4 стоит вашего внимания?
-Полный привод — уверенность на дороге в любую погоду.
-Сборка на заводе Toyota — гарантия высокого качества и продуманной инженерии.
-Надёжная платформа — проверена годами эксплуатации в разных условиях.
-Официальная гарантия 5 лет или 150 000 км — спокойствие за свой автомобиль на долгие годы.
-Это не просто кроссовер — это сочетание передовых технологий, комфорта и надёжности, адаптированное под российские дороги.
-
-Вы получаете не просто машину, а целый пакет выгод:
-комплект зимних шин — в подарок;
-шинный отель — в подарок до конца марта;
-компенсация транспортных расходов;
-подарок за покупку в день обращения.
-Ваш персональный менеджер сопроводит вас на всех этапах сделки, а оценка по трейд‑ин будет выше рыночной. Если найдёте дешевле — мы сделаем цену самой выгодной для вас!
-GAC GS4 — это максимум выгоды и комфорта без переплат. И всё это — с поддержкой официального дилера, которому доверяют.
-
-Не откладывайте решение — зафиксируйте выгоду уже сегодня!
-Что вы получите, обратившись к нам:
-реальную рассрочку 0,01 % от производителя GAC до 120 месяцев;
-первоначальный взнос от 0 ₽;
-онлайн‑оформление заявки — начните покупку, не выходя из дома;
-одобрение за 10 минут — без справок и подтверждений;
-оценку по трейд-ин выше рынка;
-все комплектации и цвета в наличии.
-Как начать?
-1. Позвоните нам — рассчитаем рассрочку с максимальной выгодой за 2 минуты.
-2. Запишитесь на бесплатный тест-драйв по уникальным маршрутам в Самаре — лично оцените преимущества GAC GS4.
-3. Получите фиксированные условия — пока утильсбор не повысился.
-Почему стоит выбрать «ЭКСПЕРТ АВТО»?
-официальный дилер GAC в Самаре;
-20 лет на рынке, более 40 000 проданных авто;
-более 100 автомобилей в наличии;
-девиз: «Клиент однажды — друг навсегда!».</description><drive_type>Полный</drive_type><engineType>Бензин</engineType><folder_id>GS4, I</folder_id><gearboxType>Автоматическая</gearboxType><images><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGAE3G82T1005096/0/full.webp?v=ad3dda82d204</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGAE3G82T1005096/1/full.webp?v=16bec3b0f64e</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGAE3G82T1005096/2/full.webp?v=33a07201184a</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGAE3G82T1005096/3/full.webp?v=8ac6825d8ceb</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGAE3G82T1005096/4/full.webp?v=800582d9880d</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGAE3G82T1005096/5/full.webp?v=b0050362ac2d</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGAE3G82T1005096/6/full.webp?v=5cc86a9416dd</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGAE3G82T1005096/7/full.webp?v=e433f2348448</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGAE3G82T1005096/8/full.webp?v=5a93fd1672e7</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGAE3G82T1005096/9/full.webp?v=d4a04077acb5</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGAE3G82T1005096/10/full.webp?v=4f9dec4d1e9b</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGAE3G82T1005096/11/full.webp?v=f00095c75008</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGAE3G82T1005096/12/full.webp?v=971a0013cc30</image></images><insurance_discount>100000</insurance_discount><mark_id>Gac</mark_id><max_discount>579000</max_discount><modification_id>2.0 AT (231 л.с.) 4WD</modification_id><price>3949000</price><run>0</run><tradein_discount>200000</tradein_discount><vin>LMGAE3G82T1005096</vin><wheel>левый</wheel><year>2026</year><color_rus>Белый</color_rus><color_eng>white</color_eng><priceWithDiscount>3370000</priceWithDiscount><sale_price>3370000</sale_price><currency>RUR</currency><url>https://gac-smr.alexsab.ru/cars/gac-gs4-i-20-at-231-hp-4wd-gl-white-2026/</url><model_name>ДжиЭс 4 / GS4</model_name><model_id>gs4</model_id><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGAE3G82T1005096/0/full.webp?v=ad3dda82d204</image></car><car><availability>В наличии</availability><body_type>Внедорожник 5 дв.</body_type><color>Серый</color><complectation_name>GB</complectation_name><credit_discount>200000</credit_discount><description>Хотите приобрести GAC GS4 до повышения утильсбора?
+<data><cars><car><availability>В наличии</availability><body_type>Внедорожник 5 дв.</body_type><color>Серый</color><complectation_name>GB</complectation_name><credit_discount>200000</credit_discount><description>Хотите приобрести GAC GS4 до повышения утильсбора?
 Не упустите шанс купить полноприводную версию GAC GS4 по выгодной цене — от 
 8 307 ₽/мес. с реальной рассрочкой 0,01 %!
 GAC GS4 — это полноприводная версия, собранная на заводе Toyota. Надёжная платформа, проверенная временем, ждёт своего владельца. Успейте зафиксировать выгоду, пока условия максимально комфортны!
@@ -329,45 +293,7 @@ GAC GS8 создан для тех, кто ценит простор, комфо
 официальный дилер GAC в Самаре;
 20 лет на рынке, более 40 000 проданных авто;
 более 100 автомобилей в наличии;
-девиз: «Клиент однажды — друг навсегда!».</description><drive_type>Полный</drive_type><engineType>Бензин</engineType><folder_id>GS8, II</folder_id><gearboxType>Автоматическая</gearboxType><images><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/0/full.webp?v=d39fe1ddf2d8</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/1/full.webp?v=c65dcd5f2347</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/2/full.webp?v=d320b37c7bb2</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/3/full.webp?v=2fbce31ef7f7</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/4/full.webp?v=e7aff0a70122</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/5/full.webp?v=ad0bb03e801b</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/6/full.webp?v=c611ab67bf25</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/7/full.webp?v=73bce73e62a3</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/8/full.webp?v=ff99cbc1a1f1</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/9/full.webp?v=9a6e287e6395</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/10/full.webp?v=be5d1d5e2243</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/11/full.webp?v=37530e1b07f2</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/12/full.webp?v=9c9da1c5b48d</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/13/full.webp?v=20117fed280b</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/14/full.webp?v=65a0782f43a1</image></images><insurance_discount>100000</insurance_discount><mark_id>Gac</mark_id><modification_id>2.0 AT (231 л.с.) 4WD</modification_id><price>4549000</price><run>0</run><tradein_discount>400000</tradein_discount><vin>LMGJU3G52T1067784</vin><wheel>левый</wheel><year>2026</year><color_rus>Чёрный</color_rus><color_eng>black</color_eng><max_discount>700000</max_discount><priceWithDiscount>3849000</priceWithDiscount><sale_price>3849000</sale_price><currency>RUR</currency><url>https://gac-smr.alexsab.ru/cars/gac-gs8-ii-20-at-231-hp-4wd-gl-black-2026/</url><model_name>Обновленный ДжиЭс 8 / GS8</model_name><model_id>new-gs8</model_id><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/0/full.webp?v=d39fe1ddf2d8</image></car><car><availability>В наличии</availability><body_type>Внедорожник 5 дв.</body_type><color>Черный</color><complectation_name>GT</complectation_name><credit_discount>300000</credit_discount><description>Успейте купить премиальный семиместный кроссовер GAC GS8  по выгодной цене — от 9786 ₽/мес. с рассрочкой 0,01 %!
-GAC GS8 - это сочетание элегантного дизайна, передовых технологий и высокого уровня комфорта. Автомобиль собран на заводе Toyota — и готов стать вашим надёжным спутником в любых поездках.
-Не упустите шанс зафиксировать выгодные условия, пока утильсбор не вырос!
-
-Почему GAC GS8 достоин вашего внимания?
-Премиальный семиместный кроссовер — комфортно разместятся вся семья и друзья.
-Элегантный дизайн — автомобиль, который подчёркивает ваш статус.
-Передовые технологии — всё необходимое для удовольствия от вождения.
-Высокий уровень комфорта — поездки любой длительности станут приятнее.
-Полный привод — уверенность на дороге в любую погоду.
-Сборка на заводе Toyota — гарантия качества и надёжности.
-Официальная гарантия 5 лет или 150 000 км — спокойствие за свой автомобиль на долгие годы.
-GAC GS8 создан для тех, кто ценит простор, комфорт и технологичность — без лишних переплат.
-
-А ещё вы получаете целый пакет бонусов:
-комплект зимних шин — в подарок;
-шинный отель — в подарок до конца марта;
-компенсация транспортных расходов;
-подарок за покупку в день обращения;
-персональный менеджер, который сопроводит вас на всех этапах сделки.
-Если найдёте предложение дешевле — мы сделаем цену самой выгодной для вас. А оценка по трейд-ин будет выше рыночной!
-Это не просто автомобиль — это ваш новый уровень комфорта и статуса.
-
-Не откладывайте решение — зафиксируйте выгоду уже сегодня!
-Что вы получите, обратившись к нам:
-реальную рассрочку 0,01 % от производителя GAC до 120 месяцев;
-первоначальный взнос от 0 ₽;
-онлайн оформление заявки — начните покупку, не выходя из дома;
-одобрение за 10 минут — без справок и подтверждений;
-все комплектации и цвета в наличии.
-Как начать?
-Позвоните нам — рассчитаем рассрочку с максимальной выгодой за 2 минуты.
-Запишитесь на бесплатный тест драйв по уникальным маршрутам в Самаре — лично оцените преимущества GAC GS8.
-Получите фиксированные условия — пока утильсбор не повысился.
-Почему стоит выбрать «ЭКСПЕРТ АВТО»?
-официальный дилер GAC в Самаре;
-20 лет на рынке, более 40 000 проданных авто;
-более 100 автомобилей в наличии;
-девиз: «Клиент однажды — друг навсегда!».</description><drive_type>Полный</drive_type><engineType>Бензин</engineType><folder_id>GS8, II</folder_id><gearboxType>Автоматическая</gearboxType><images><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G80T1064800/0/full.webp?v=10204e25beb2</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G80T1064800/1/full.webp?v=1d5688ab234c</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G80T1064800/2/full.webp?v=0ecec064b5bd</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G80T1064800/3/full.webp?v=4d17fcb5704a</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G80T1064800/4/full.webp?v=71c200f14625</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G80T1064800/5/full.webp?v=408995099224</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G80T1064800/6/full.webp?v=2863d42f9ae1</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G80T1064800/7/full.webp?v=c66a917e5691</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G80T1064800/8/full.webp?v=42961ed2f460</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G80T1064800/9/full.webp?v=c761e02ccfb3</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G80T1064800/10/full.webp?v=a9c2d35775d9</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G80T1064800/11/full.webp?v=6063851a3a9f</image></images><insurance_discount>100000</insurance_discount><mark_id>Gac</mark_id><modification_id>Dragon 2.0 AT (231 л.с.) 4WD</modification_id><price>4949000</price><run>0</run><tradein_discount>400000</tradein_discount><vin>LMGJU3G80T1064800</vin><wheel>левый</wheel><year>2026</year><color_rus>Чёрный</color_rus><color_eng>black</color_eng><max_discount>700000</max_discount><priceWithDiscount>4249000</priceWithDiscount><sale_price>4249000</sale_price><currency>RUR</currency><url>https://gac-smr.alexsab.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gt-black-2026/</url><model_name>Обновленный ДжиЭс 8 / GS8</model_name><model_id>new-gs8</model_id><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G80T1064800/0/full.webp?v=10204e25beb2</image></car><car><availability>В наличии</availability><body_type>Внедорожник 5 дв.</body_type><color>Черный</color><complectation_name>GX Premium</complectation_name><credit_discount>300000</credit_discount><description>Успейте купить премиальный семиместный кроссовер GAC GS8  по выгодной цене — от 9786 ₽/мес. с рассрочкой 0,01 %!
+девиз: «Клиент однажды — друг навсегда!».</description><drive_type>Полный</drive_type><engineType>Бензин</engineType><folder_id>GS8, II</folder_id><gearboxType>Автоматическая</gearboxType><images><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/0/full.webp?v=d39fe1ddf2d8</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/1/full.webp?v=c65dcd5f2347</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/2/full.webp?v=d320b37c7bb2</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/3/full.webp?v=2fbce31ef7f7</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/4/full.webp?v=e7aff0a70122</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/5/full.webp?v=ad0bb03e801b</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/6/full.webp?v=c611ab67bf25</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/7/full.webp?v=73bce73e62a3</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/8/full.webp?v=ff99cbc1a1f1</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/9/full.webp?v=9a6e287e6395</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/10/full.webp?v=be5d1d5e2243</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/11/full.webp?v=37530e1b07f2</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/12/full.webp?v=9c9da1c5b48d</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/13/full.webp?v=20117fed280b</image><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/14/full.webp?v=65a0782f43a1</image></images><insurance_discount>100000</insurance_discount><mark_id>Gac</mark_id><modification_id>2.0 AT (231 л.с.) 4WD</modification_id><price>4549000</price><run>0</run><tradein_discount>400000</tradein_discount><vin>LMGJU3G52T1067784</vin><wheel>левый</wheel><year>2026</year><color_rus>Чёрный</color_rus><color_eng>black</color_eng><max_discount>700000</max_discount><priceWithDiscount>3849000</priceWithDiscount><sale_price>3849000</sale_price><currency>RUR</currency><url>https://gac-smr.alexsab.ru/cars/gac-gs8-ii-20-at-231-hp-4wd-gl-black-2026/</url><model_name>Обновленный ДжиЭс 8 / GS8</model_name><model_id>new-gs8</model_id><image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/0/full.webp?v=d39fe1ddf2d8</image></car><car><availability>В наличии</availability><body_type>Внедорожник 5 дв.</body_type><color>Черный</color><complectation_name>GX Premium</complectation_name><credit_discount>300000</credit_discount><description>Успейте купить премиальный семиместный кроссовер GAC GS8  по выгодной цене — от 9786 ₽/мес. с рассрочкой 0,01 %!
 GAC GS8 - это сочетание элегантного дизайна, передовых технологий и высокого уровня комфорта. Автомобиль собран на заводе Toyota — и готов стать вашим надёжным спутником в любых поездках.
 Не упустите шанс зафиксировать выгодные условия, пока утильсбор не вырос!
 
