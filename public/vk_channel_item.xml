@@ -1,0 +1,534 @@
+<?xml version='1.0' encoding='utf-8'?>
+<channel>
+  <title>Автомобили</title>
+  <item>
+    <id>LMGAE3G57T1005245</id>
+    <link>https://gac-smr.alexsab.ru/cars/gac-gs4-i-20-at-231-hp-4wd-gb-gray-2026/</link>
+    <brand>Gac</brand>
+    <model>GS4, I</model>
+    <year>2026</year>
+    <title>Gac GS4, I GB 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGAE3G57T1005245/0/full.webp?v=4eaa51b71279</image_link>
+    <price>3799000 RUB</price>
+    <sale_price>3399000 RUB</sale_price>
+    <min_price>3399000 RUB</min_price>
+    <max_price>3799000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS4, I, GB, 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>LMGAE3G57T1005245</vin>
+    <availability>на заказ</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGAE3G86T1005294</id>
+    <link>https://gac-smr.alexsab.ru/cars/gac-gs4-i-20-at-231-hp-4wd-gl-black-2026/</link>
+    <brand>Gac</brand>
+    <model>GS4, I</model>
+    <year>2026</year>
+    <title>Gac GS4, I GL 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGAE3G86T1005294/0/full.webp?v=6260072daa97</image_link>
+    <price>3949000 RUB</price>
+    <sale_price>3549000 RUB</sale_price>
+    <min_price>3549000 RUB</min_price>
+    <max_price>3949000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS4, I, GL, 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>LMGAE3G86T1005294</vin>
+    <availability>на заказ</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGAE3G88T1005927</id>
+    <link>https://gac-smr.alexsab.ru/cars/gac-gs4-i-20-at-231-hp-4wd-gl-gray-2026/</link>
+    <brand>Gac</brand>
+    <model>GS4, I</model>
+    <year>2026</year>
+    <title>Gac GS4, I GL 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGAE3G88T1005927/0/full.webp?v=2dcb60e6fac8</image_link>
+    <price>3949000 RUB</price>
+    <sale_price>3549000 RUB</sale_price>
+    <min_price>3549000 RUB</min_price>
+    <max_price>3949000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS4, I, GL, 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>LMGAE3G88T1005927</vin>
+    <availability>на заказ</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGBB1L27S3145781</id>
+    <link>https://gac-smr.alexsab.ru/cars/gac-empow-i-15-amt-170-hp-gs-white-2025/</link>
+    <brand>Gac</brand>
+    <model>Empow, I</model>
+    <year>2025</year>
+    <title>Gac Empow, I GS 2025</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGBB1L27S3145781/0/full.webp?v=ea0209705e71</image_link>
+    <price>3099000 RUB</price>
+    <sale_price>2699000 RUB</sale_price>
+    <min_price>2699000 RUB</min_price>
+    <max_price>3099000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac Empow, I, GS, 1.5 AMT (170 л.с.), 2025 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>sedan</body_style>
+    <vin>LMGBB1L27S3145781</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJF3S80T1001116</id>
+    <link>https://gac-smr.alexsab.ru/cars/gac-s9-i-15hyb-at-340-hp-4wd-sx-premium-black-2026/</link>
+    <brand>Gac</brand>
+    <model>S9, I</model>
+    <year>2026</year>
+    <title>Gac S9, I SX Premium 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJF3S80T1001116/0/full.webp?v=0d09563764ae</image_link>
+    <price>6899000 RUB</price>
+    <sale_price>6499000 RUB</sale_price>
+    <min_price>6499000 RUB</min_price>
+    <max_price>6899000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac S9, I, SX Premium, 1.5hyb AT (340 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>LMGJF3S80T1001116</vin>
+    <availability>на заказ</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJF3S82T1000601</id>
+    <link>https://gac-smr.alexsab.ru/cars/gac-s9-i-15hyb-at-340-hp-4wd-sx-premium-black-2026/</link>
+    <brand>Gac</brand>
+    <model>S9, I</model>
+    <year>2026</year>
+    <title>Gac S9, I SX Premium 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJF3S82T1000601/0/full.webp?v=d5677696a0de</image_link>
+    <price>6899000 RUB</price>
+    <sale_price>6499000 RUB</sale_price>
+    <min_price>6499000 RUB</min_price>
+    <max_price>6899000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac S9, I, SX Premium, 1.5hyb AT (340 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>LMGJF3S82T1000601</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJF3S83T1000669</id>
+    <link>https://gac-smr.alexsab.ru/cars/gac-s9-i-15hyb-at-340-hp-4wd-sx-premium-white-2026/</link>
+    <brand>Gac</brand>
+    <model>S9, I</model>
+    <year>2026</year>
+    <title>Gac S9, I SX Premium 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJF3S83T1000669/0/full.webp?v=8b280afcfa2d</image_link>
+    <price>6799000 RUB</price>
+    <sale_price>6399000 RUB</sale_price>
+    <min_price>6399000 RUB</min_price>
+    <max_price>6799000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac S9, I, SX Premium, 1.5hyb AT (340 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>LMGJF3S83T1000669</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJF3S83T1001238</id>
+    <link>https://gac-smr.alexsab.ru/cars/gac-s9-i-15hyb-at-340-hp-4wd-sx-premium-silver-2026/</link>
+    <brand>Gac</brand>
+    <model>S9, I</model>
+    <year>2026</year>
+    <title>Gac S9, I SX Premium 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJF3S83T1001238/0/full.webp?v=597bafa96edb</image_link>
+    <price>6949000 RUB</price>
+    <sale_price>6549000 RUB</sale_price>
+    <min_price>6549000 RUB</min_price>
+    <max_price>6949000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac S9, I, SX Premium, 1.5hyb AT (340 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Серебряный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>LMGJF3S83T1001238</vin>
+    <availability>на заказ</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJF3S85T1000558</id>
+    <link>https://gac-smr.alexsab.ru/cars/gac-s9-i-15hyb-at-340-hp-4wd-sx-premium-black-2026/</link>
+    <brand>Gac</brand>
+    <model>S9, I</model>
+    <year>2026</year>
+    <title>Gac S9, I SX Premium 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJF3S85T1000558/0/full.webp?v=5246cd7e8900</image_link>
+    <price>6949000 RUB</price>
+    <sale_price>6649000 RUB</sale_price>
+    <min_price>6649000 RUB</min_price>
+    <max_price>6949000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac S9, I, SX Premium, 1.5hyb AT (340 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>LMGJF3S85T1000558</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJF3S87T1000769</id>
+    <link>https://gac-smr.alexsab.ru/cars/gac-s9-i-15hyb-at-340-hp-4wd-sx-premium-black-2026/</link>
+    <brand>Gac</brand>
+    <model>S9, I</model>
+    <year>2026</year>
+    <title>Gac S9, I SX Premium 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJF3S87T1000769/0/full.webp?v=5246cd7e8900</image_link>
+    <price>6949000 RUB</price>
+    <sale_price>6549000 RUB</sale_price>
+    <min_price>6549000 RUB</min_price>
+    <max_price>6949000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac S9, I, SX Premium, 1.5hyb AT (340 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>LMGJF3S87T1000769</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJF3S88T1000084</id>
+    <link>https://gac-smr.alexsab.ru/cars/gac-s9-i-15hyb-at-340-hp-4wd-sx-premium-blue-2026/</link>
+    <brand>Gac</brand>
+    <model>S9, I</model>
+    <year>2026</year>
+    <title>Gac S9, I SX Premium 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJF3S88T1000084/0/full.webp?v=b78e82824d9b</image_link>
+    <price>6799000 RUB</price>
+    <sale_price>6019100 RUB</sale_price>
+    <min_price>6019100 RUB</min_price>
+    <max_price>6799000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac S9, I, SX Premium, 1.5hyb AT (340 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Синий</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>LMGJF3S88T1000084</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJF3S8XT1001236</id>
+    <link>https://gac-smr.alexsab.ru/cars/gac-s9-i-15hyb-at-340-hp-4wd-sx-premium-black-2026/</link>
+    <brand>Gac</brand>
+    <model>S9, I</model>
+    <year>2026</year>
+    <title>Gac S9, I SX Premium 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJF3S8XT1001236/0/full.webp?v=0d09563764ae</image_link>
+    <price>6899000 RUB</price>
+    <sale_price>6499000 RUB</sale_price>
+    <min_price>6499000 RUB</min_price>
+    <max_price>6899000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac S9, I, SX Premium, 1.5hyb AT (340 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>LMGJF3S8XT1001236</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJU3G52T1067784</id>
+    <link>https://gac-smr.alexsab.ru/cars/gac-gs8-ii-20-at-231-hp-4wd-gl-black-2026/</link>
+    <brand>Gac</brand>
+    <model>GS8, II</model>
+    <year>2026</year>
+    <title>Gac GS8, II GL 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/0/full.webp?v=d39fe1ddf2d8</image_link>
+    <price>4549000 RUB</price>
+    <sale_price>3799000 RUB</sale_price>
+    <min_price>3799000 RUB</min_price>
+    <max_price>4549000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS8, II, GL, 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>LMGJU3G52T1067784</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJU3G80T1066501</id>
+    <link>https://gac-smr.alexsab.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gx-premium-black-2026/</link>
+    <brand>Gac</brand>
+    <model>GS8, II</model>
+    <year>2026</year>
+    <title>Gac GS8, II GX Premium 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G80T1066501/0/full.webp?v=697877ba26e0</image_link>
+    <price>5349000 RUB</price>
+    <sale_price>4569000 RUB</sale_price>
+    <min_price>4569000 RUB</min_price>
+    <max_price>5349000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS8, II, GX Premium, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>LMGJU3G80T1066501</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJU3G80T1068510</id>
+    <link>https://gac-smr.alexsab.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gx-premium-black-2026/</link>
+    <brand>Gac</brand>
+    <model>GS8, II</model>
+    <year>2026</year>
+    <title>Gac GS8, II GX Premium 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G80T1068510/0/full.webp?v=6b73103f72a3</image_link>
+    <price>5349000 RUB</price>
+    <sale_price>4749000 RUB</sale_price>
+    <min_price>4749000 RUB</min_price>
+    <max_price>5349000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS8, II, GX Premium, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>LMGJU3G80T1068510</vin>
+    <availability>на заказ</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJU3G81T1064725</id>
+    <link>https://gac-smr.alexsab.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gt-black-2026/</link>
+    <brand>Gac</brand>
+    <model>GS8, II</model>
+    <year>2026</year>
+    <title>Gac GS8, II GT 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G81T1064725/0/full.webp?v=ffc5d18f3972</image_link>
+    <price>4949000 RUB</price>
+    <sale_price>4349000 RUB</sale_price>
+    <min_price>4349000 RUB</min_price>
+    <max_price>4949000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS8, II, GT, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>LMGJU3G81T1064725</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJU3G81T1065552</id>
+    <link>https://gac-smr.alexsab.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gx-premium-white-2026/</link>
+    <brand>Gac</brand>
+    <model>GS8, II</model>
+    <year>2026</year>
+    <title>Gac GS8, II GX Premium 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G81T1065552/0/full.webp?v=d8e3510ffee3</image_link>
+    <price>5349000 RUB</price>
+    <sale_price>4599000 RUB</sale_price>
+    <min_price>4599000 RUB</min_price>
+    <max_price>5349000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS8, II, GX Premium, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>LMGJU3G81T1065552</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJU3G82T1064720</id>
+    <link>https://gac-smr.alexsab.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gt-black-2026/</link>
+    <brand>Gac</brand>
+    <model>GS8, II</model>
+    <year>2026</year>
+    <title>Gac GS8, II GT 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G82T1064720/0/full.webp?v=ffc5d18f3972</image_link>
+    <price>4949000 RUB</price>
+    <sale_price>4299000 RUB</sale_price>
+    <min_price>4299000 RUB</min_price>
+    <max_price>4949000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS8, II, GT, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>LMGJU3G82T1064720</vin>
+    <availability>на заказ</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJU3G84T1061821</id>
+    <link>https://gac-smr.alexsab.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gx-premium-silver-2026/</link>
+    <brand>Gac</brand>
+    <model>GS8, II</model>
+    <year>2026</year>
+    <title>Gac GS8, II GX Premium 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G84T1061821/0/full.webp?v=8a01255511e6</image_link>
+    <price>5349000 RUB</price>
+    <sale_price>4649000 RUB</sale_price>
+    <min_price>4649000 RUB</min_price>
+    <max_price>5349000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS8, II, GX Premium, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Серебряный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>LMGJU3G84T1061821</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJU3G84T1065416</id>
+    <link>https://gac-smr.alexsab.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gx-premium-silver-2026/</link>
+    <brand>Gac</brand>
+    <model>GS8, II</model>
+    <year>2026</year>
+    <title>Gac GS8, II GX Premium 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G84T1065416/0/full.webp?v=058a149809d6</image_link>
+    <price>5349000 RUB</price>
+    <sale_price>4649000 RUB</sale_price>
+    <min_price>4649000 RUB</min_price>
+    <max_price>5349000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS8, II, GX Premium, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Серебряный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>LMGJU3G84T1065416</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJU3G8XT1066392</id>
+    <link>https://gac-smr.alexsab.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gx-premium-white-2026/</link>
+    <brand>Gac</brand>
+    <model>GS8, II</model>
+    <year>2026</year>
+    <title>Gac GS8, II GX Premium 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G8XT1066392/0/full.webp?v=6fa60a12ad8a</image_link>
+    <price>5349000 RUB</price>
+    <sale_price>4749000 RUB</sale_price>
+    <min_price>4749000 RUB</min_price>
+    <max_price>5349000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS8, II, GX Premium, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>LMGJU3G8XT1066392</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJU3G8XT1067641</id>
+    <link>https://gac-smr.alexsab.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gx-premium-black-2026/</link>
+    <brand>Gac</brand>
+    <model>GS8, II</model>
+    <year>2026</year>
+    <title>Gac GS8, II GX Premium 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G8XT1067641/0/full.webp?v=e47df7a0def9</image_link>
+    <price>5349000 RUB</price>
+    <sale_price>4649000 RUB</sale_price>
+    <min_price>4649000 RUB</min_price>
+    <max_price>5349000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS8, II, GX Premium, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>LMGJU3G8XT1067641</vin>
+    <availability>на заказ</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGNC3S89T1002338</id>
+    <link>https://gac-smr.alexsab.ru/cars/gac-s7-i-15hyb-at-340-hp-4wd-sx-premium-gray-2026/</link>
+    <brand>Gac</brand>
+    <model>S7, I</model>
+    <year>2026</year>
+    <title>Gac S7, I SX Premium 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGNC3S89T1002338/0/full.webp?v=4b2a719f6a53</image_link>
+    <price>6249000 RUB</price>
+    <sale_price>5849000 RUB</sale_price>
+    <min_price>5849000 RUB</min_price>
+    <max_price>6249000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac S7, I, SX Premium, 1.5hyb AT (340 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>LMGNC3S89T1002338</vin>
+    <availability>на заказ</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+</channel>
