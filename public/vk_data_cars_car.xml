@@ -2,6 +2,30 @@
 <data>
   <cars>
     <car>
+      <unique_id>HACAALB38T1M00306</unique_id>
+      <url>https://gac-smr.alexsab.ru/cars/gac-aion-v-i-electro-at-150-kvt-ex-premium-black-2026/</url>
+      <mark_id>Gac</mark_id>
+      <folder_id>Aion V, I</folder_id>
+      <year>2026</year>
+      <vin>HACAALB38T1M00306</vin>
+      <price>4599000</price>
+      <sale_price>4199000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>400000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <run>0</run>
+      <description>Автомобиль Gac Aion V, I, EX Premium, Electro AT (150 кВт), 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/HACAALB38T1M00306/0/full.webp?v=b7775580d81c</image>
+        <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/HACAALB38T1M00306/1/full.webp?v=3fe9633ae6ec</image>
+        <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/HACAALB38T1M00306/2/full.webp?v=b0d96c1e3a00</image>
+        <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/HACAALB38T1M00306/3/full.webp?v=e3828b50a7f4</image>
+        <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/HACAALB38T1M00306/4/full.webp?v=7c734f5b40d1</image>
+      </images>
+    </car>
+    <car>
       <unique_id>LMGAE3G57T1005245</unique_id>
       <url>https://gac-smr.alexsab.ru/cars/gac-gs4-i-20-at-231-hp-4wd-gb-gray-2026/</url>
       <mark_id>Gac</mark_id>
