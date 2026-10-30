@@ -188,15 +188,15 @@
       <images>
         <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJF3S80T1001116/0/full.webp?v=0d09563764ae</image>
         <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJF3S80T1001116/1/full.webp?v=41e17fed20e4</image>
-        <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJF3S80T1001116/2/full.webp?v=207588f1f095</image>
+        <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJF3S80T1001116/2/full.webp?v=4a3de115a553</image>
         <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJF3S80T1001116/3/full.webp?v=e3c70972457d</image>
         <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJF3S80T1001116/4/full.webp?v=ee2bbc0d7783</image>
         <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJF3S80T1001116/5/full.webp?v=29a038401749</image>
         <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJF3S80T1001116/6/full.webp?v=608013893ccd</image>
         <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJF3S80T1001116/7/full.webp?v=8e88c1c0385e</image>
         <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJF3S80T1001116/8/full.webp?v=c42f8e4eaecb</image>
-        <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJF3S80T1001116/9/full.webp?v=4a76409ff631</image>
-        <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJF3S80T1001116/10/full.webp?v=2736f6b9ca78</image>
+        <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJF3S80T1001116/9/full.webp?v=cad9ddcfab44</image>
+        <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJF3S80T1001116/10/full.webp?v=75225476fce0</image>
       </images>
     </car>
     <car>
@@ -425,7 +425,7 @@
       <images>
         <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJF3S8XT1001236/0/full.webp?v=0d09563764ae</image>
         <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJF3S8XT1001236/1/full.webp?v=41e17fed20e4</image>
-        <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJF3S8XT1001236/2/full.webp?v=207588f1f095</image>
+        <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJF3S8XT1001236/2/full.webp?v=4a3de115a553</image>
         <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJF3S8XT1001236/3/full.webp?v=e3c70972457d</image>
         <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJF3S8XT1001236/4/full.webp?v=ee2bbc0d7783</image>
         <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJF3S8XT1001236/5/full.webp?v=29a038401749</image>
@@ -434,40 +434,6 @@
         <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJF3S8XT1001236/8/full.webp?v=c42f8e4eaecb</image>
         <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJF3S8XT1001236/9/full.webp?v=75225476fce0</image>
         <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJF3S8XT1001236/10/full.webp?v=cad9ddcfab44</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>LMGJU3G52T1067784</unique_id>
-      <url>https://gac-smr.alexsab.ru/cars/gac-gs8-ii-20-at-231-hp-4wd-gl-black-2026/</url>
-      <mark_id>Gac</mark_id>
-      <folder_id>GS8, II</folder_id>
-      <year>2026</year>
-      <vin>LMGJU3G52T1067784</vin>
-      <price>4549000</price>
-      <sale_price>3799000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>750000</max_benefit>
-      <color>черный</color>
-      <availability>В наличии</availability>
-      <run>0</run>
-      <description>Автомобиль Gac GS8, II, GL, 2.0 AT (231 л.с.) 4WD, 2026 г., черный</description>
-      <images>
-        <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/0/full.webp?v=d39fe1ddf2d8</image>
-        <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/1/full.webp?v=c65dcd5f2347</image>
-        <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/2/full.webp?v=d320b37c7bb2</image>
-        <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/3/full.webp?v=2fbce31ef7f7</image>
-        <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/4/full.webp?v=e7aff0a70122</image>
-        <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/5/full.webp?v=ad0bb03e801b</image>
-        <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/6/full.webp?v=c611ab67bf25</image>
-        <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/7/full.webp?v=73bce73e62a3</image>
-        <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/8/full.webp?v=ff99cbc1a1f1</image>
-        <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/9/full.webp?v=9a6e287e6395</image>
-        <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/10/full.webp?v=be5d1d5e2243</image>
-        <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/11/full.webp?v=37530e1b07f2</image>
-        <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/12/full.webp?v=9c9da1c5b48d</image>
-        <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/13/full.webp?v=20117fed280b</image>
-        <image>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G52T1067784/14/full.webp?v=65a0782f43a1</image>
       </images>
     </car>
     <car>
