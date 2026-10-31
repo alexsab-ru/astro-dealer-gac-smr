@@ -348,29 +348,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>LMGJU3G81T1064725</id>
-    <link>https://gac-smr.alexsab.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gt-black-2026/</link>
-    <brand>Gac</brand>
-    <model>GS8, II</model>
-    <year>2026</year>
-    <title>Gac GS8, II GT 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G81T1064725/0/full.webp?v=ffc5d18f3972</image_link>
-    <price>4949000 RUB</price>
-    <sale_price>4349000 RUB</sale_price>
-    <min_price>4349000 RUB</min_price>
-    <max_price>4949000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Gac GS8, II, GT, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Черный</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>LMGJU3G81T1064725</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>LMGJU3G81T1065552</id>
     <link>https://gac-smr.alexsab.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gx-premium-white-2026/</link>
     <brand>Gac</brand>
@@ -469,7 +446,7 @@
     <model>GS8, II</model>
     <year>2026</year>
     <title>Gac GS8, II GX Premium 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G8XT1066392/0/full.webp?v=6fa60a12ad8a</image_link>
+    <image_link>https://cdn.alexsab.ru/cars/gac-smr.alexsab.ru/new/LMGJU3G8XT1066392/0/full.webp?v=28ae28a728e8</image_link>
     <price>5349000 RUB</price>
     <sale_price>4749000 RUB</sale_price>
     <min_price>4749000 RUB</min_price>
